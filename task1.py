@@ -24,5 +24,9 @@ The animal at that index is Dog
 
 
 
-animals = 51
-
+animals =
+joshList = ["Cat","Fish","Dog","Bear","Turtle"]
+a = input("Number")
+a = int(a)
+joshList.sort()
+print (joshList[a])
