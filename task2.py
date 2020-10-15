@@ -23,3 +23,18 @@ Enter a word: virus
 
 ['apple', 'worm', 'dollar', 'shingle', 'virus']
 """
+joshList = []
+
+a = input("Word")
+b = input("Word")
+c = input("Word")
+d = input("Word")
+e = input("Word")
+
+joshList.append(a)
+joshList.append(b)
+joshList.append(c)
+joshList.append(d)
+joshList.append(e)
+
+print(joshList)
